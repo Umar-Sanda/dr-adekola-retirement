@@ -28,7 +28,7 @@ st.markdown("""
     <p><b>For RSVP or more information:</b><br>
        Rufai - 07032515943<br>
        Blessing - 08034689034</p>
-    <p>Thank you, Your Excellency, for your kind attention and anticipated support.</p>
+    <p>Thank you for your kind attention and anticipated support.</p>
     <p><b>Yours faithfully,</b><br>
        Dr. Olushola Odusanya<br>
        DG/CEO, National Centre for Technology Management<br>
